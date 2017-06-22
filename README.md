@@ -1,6 +1,8 @@
 oc-registry-test
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opencomponents/oc-registry-test.svg)](https://greenkeeper.io/)
+
 An utility to test an [OpenComponents](https://github.com/opentable/oc) Registry is setup and secured correctly
 
 [![npm version](https://img.shields.io/npm/v/oc-registry-test.svg)](https://npmjs.org/package/oc-registry-test)
